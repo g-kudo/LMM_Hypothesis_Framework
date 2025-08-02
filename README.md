@@ -1,6 +1,6 @@
 # Linear Mixed Effects Model – Maternal Mental Health & Infant Sleep
 
-This notebook explores how different aspects of maternal mental health might relate to infant sleep quality, using a **Linear Mixed Effects Model (LMM)**. It works with repeated measurements over time and includes covariates to account for possible confounding factors.
+This notebook explores how different aspects of maternal mental health might relate to infant sleep quality, using a **Linear Mixed Effects Model**. It works with repeated measurements over time and includes covariates to account for possible confounding factors.
 
 ## What This Notebook Does
 
